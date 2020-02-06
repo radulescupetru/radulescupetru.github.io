@@ -1,0 +1,56 @@
+body{
+    height: 100vh;
+    background: #eee; 
+}
+.page{
+    width: 60%;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.hr-delimiter{
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+.header{
+    border-bottom: 1px solid #004085;
+}
+.person-name{
+    font-weight: bolder;
+    color:#004085;
+}
+.title{
+    font-weight: 500;
+    color: #004085;
+    font-size: 1em;
+    margin-left: 5px;
+    padding: 5px 0;
+}
+.title i{
+    margin-right: 10px;
+}
+.bold-text{
+    font-weight: bolder;
+    font-size: 14px;
+    margin-top:5px;
+}
+.job-title{
+    font-weight: 400;
+    color:#004085;
+    font-size:1.2em;
+}
+.no-margin{
+    margin: 0;
+}
+.contact-items{
+    list-style: none;
+    /* padding:0; */
+}
+.progress{
+    margin: 10px 0;
+}
+.page:nth-child(1){
+    margin-top:10px;
+}
